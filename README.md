@@ -20,5 +20,6 @@
     font-family: "SF Pro Text", Helvetica, sans-serif;
   }
 </style>
+
 <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=tom-sapletta-com" target="_blank">Follow on LinkedIn</a>
 
